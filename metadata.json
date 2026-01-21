@@ -1,0 +1,7 @@
+{
+  "name": "LAPP OrderCapture Pro",
+  "description": "A high-performance barcode scanning and order management system for industrial components, featuring real-time inventory lookup and order review.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
